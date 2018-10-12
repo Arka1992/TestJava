@@ -3,7 +3,7 @@
 public interface Constants {
 	String URL="https://www.irctc.co.in/";
 	//String UseName="arkapravo1";
-	//String PassWord="03465256562";	
+	//String PassWord="";	
 	String Browser="Firefox";
 	String From_Station="NHT";
 	String To_Station="HWH";
